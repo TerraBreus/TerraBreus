@@ -1,10 +1,13 @@
 ### About me
 ```c
-void    introduce_user()
+#include <stdio.h>
+
+void introduce_user()
 {
-    Zacharia Ivanov
-    Student at CODAM, part of the 42 network.
-    25 years. Residing in Amsterdam.
+    printf("Name: Zacharia Ivanov\n");
+    printf("Student at CODAM, part of the 42 network.\n");
+    printf("Age: 25 years.\n");
+    printf("Residing in Amsterdam.\n");
 }
 ```
-` ./things_i_like "Sustainability" "Old but robust tech." "The Beatles." "Open Source Software." "Climbing." `
+` ./things_i_like "Old but robust tech." "The Beatles." "Open Source Software." "Climbing." `
