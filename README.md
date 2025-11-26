@@ -1,13 +1,4 @@
-### About me
-```c
-#include <stdio.h>
-
-void introduce_user()
-{
-    printf("Name: Zacharia Ivanov\n");
-    printf("Student at CODAM, part of the 42 network.\n");
-    printf("Age: 26 years.\n");
-    printf("Residing in Amsterdam.\n");
-}
-```
-` ./things_i_like "Technology and software from the 2000's" "Bandcamp" "Open Source Software" "Climbing" `
+![terrabreus_display](https://github.com/user-attachments/assets/81f836a9-a087-4cba-a307-c1f17a135f18)
+<div align=center>
+    <h1>Welcome to my internet page!</h1>
+</div>
