@@ -5,7 +5,7 @@
         <tr>
             <td>
                 <code align = center>Hi! My name is Zachary but in most (online) places I go by the name of TerraBreus! 
-I currently live in Amsterdam and am halfway through my twenties. In 2024 I started the school42 curriculum at CODAM which I expect to finish by the end of 2026. I am a big fan of alive internet theory and robust, 'simple' and opensource technology that does what you want it to do (technical literacy).</code>
+I currently live in Amsterdam and am halfway through my twenties. In 2024 I started the school42 curriculum at CODAM which I expect to finish by the end of 2026. I am a big fan of alive internet theory and robust, 'simple' and opensource technology that does what you want it to do. I believe that technology should make our lifes richer and more versatile - instead of leading us to monotony and conformity.</code>
              </td>
         </tr>
     </table>
